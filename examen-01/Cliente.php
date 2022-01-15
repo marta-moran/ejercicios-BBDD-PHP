@@ -8,6 +8,7 @@ class Cliente {
     private $veces;
 
     
+	//getters y setters
 	function getCodCliente() {
 		return $this->codCliente;
 	}

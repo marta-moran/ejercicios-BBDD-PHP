@@ -8,9 +8,7 @@ class Pedido {
     private $producto;
     private $precio;
     
-
-
-
+    //getters y setters
     function getNumPed() {
         return $this->numPed;
     }
